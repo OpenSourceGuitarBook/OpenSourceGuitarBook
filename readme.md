@@ -78,7 +78,8 @@ If you don't have a metronome try to use your foot to beat the tempo as precisel
 7. **Composing**
 8. **Misc**
    - Memorize notes on the fretboard
-9. **Styles**
+9. **Chords**
+10. **Styles**
    - Rock
    - Blues
    - Metal
@@ -100,9 +101,9 @@ There are many ways you can contribute to this project:
 
 ## License
 
-### Music sheet / book and all music related work: ###
+### Music sheet / book and all music related work ###
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 ### Software, webpages and apps ###
-All the software written is under the GNU General Public License v3.0, see License.md for more info.
+All the software written is under the GNU General Public License v3.0, see LICENSE file for more info.
