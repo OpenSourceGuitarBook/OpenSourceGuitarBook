@@ -80,13 +80,13 @@ If you don't have a metronome try to use your foot to beat the tempo as precisel
    - Memorize notes on the fretboard
 9. **Chords**
 10. **Styles**
-   - Rock
-   - Blues
-   - Metal
-   - Jazz
-   - Pop
-   - Funky
-   - Country
+    - Rock
+    - Blues
+    - Metal
+    - Jazz
+    - Pop
+    - Funky
+    - Country
 
 ## Contributing
 
@@ -106,4 +106,26 @@ There are many ways you can contribute to this project:
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 ### Software, webpages and apps ###
+
 All the software written is under the GNU General Public License v3.0, see LICENSE file for more info.
+
+## Where is the book?
+
+As mentioned in the Structure section, in this repository there is only the "source" code of the book.
+I will update the project with a mini website of the project, an online web application where you can download pdf version and mp3 files of the tabs.
+
+Right now the only option to get the book is to:
+
+## Build the book yourself
+
+I have a software engineering background, so that's why I am using this space for hosting a guitar training book.
+You can build the book by yourself (please respect the LICENSE), by using the python script under the "./script" folder.
+
+This script will create all the .xml, .pdf and .mp3 files.
+
+The prerequisites are:
+
+- Having MuseScore installed
+- libjack installed (use homebrew: brew install jack)
+- Using macOS (tested on Catalina and BigSur)
+- Having Python installed on your pc (2.7.8 at least)

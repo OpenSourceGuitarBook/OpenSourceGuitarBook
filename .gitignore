@@ -1,2 +1,5 @@
 .DS_Store
 .mscbackup
+*.xml
+*.mp3
+*.pdf
