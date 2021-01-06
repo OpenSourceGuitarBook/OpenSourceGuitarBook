@@ -21,7 +21,7 @@ def exportFile(files, destExt, srcExt = ".mscz"):
         result = os.system(command)
 
 mydir = "../book/"
-extensions = [".xml", ".pdf", ".mp3"] 
+extensions = [".xml", ".pdf", ".mp3", ".svg"] 
 
 os.chdir(mydir)
 
